@@ -60,6 +60,19 @@ To improve accuracy, the script calibrates the theoretical model using real meas
    ```
    - The script will print the correction factor and display the plot.
 
+## Efficiency Analysis
+
+A separate script, `motor_prop_efficiency.py`, is provided to analyze the efficiency of each motor/propeller combination.
+
+- **What it does:**
+  Plots efficiency (thrust/power, in g/W) vs. thrust (g) for each setup, using the same correction/calibration as the main simulation.
+- **How to run:**
+  ```bash
+  python motor_prop_efficiency.py
+  ```
+- **Output:**
+  A plot showing the efficiency curve for each motor/prop combo, helping you identify the most efficient operating points.
+
 ## Engineering Notes
 - **Empirical Correction:** The correction factor is essential for matching theory to practice. Always use measured data for calibration when available.
 - **Units:** Ensure all inputs are in the correct units (diameter/pitch in inches, thrust in grams, power in watts).
