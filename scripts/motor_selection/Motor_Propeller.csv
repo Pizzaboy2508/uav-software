@@ -1,0 +1,8 @@
+﻿Model,Supplier,Kv Rating,Imax (A),Vmax (V),Pmax (W),Thrust (g),Efficiency (g/W),Weight (g),Price (CAD),Pitch,Diameter,Propeller,Lipo Cell
+A2212 SEREIS,E-S Motor,930,9.8,11.1,109,660,6.1,60,10.45,6,10,1060,3S
+A2212 SEREIS,E-S Motor,1000,15.6,11.1,173,885,5.1,61,10.45,4.7,10,1047,3S
+A2212 SEREIS,E-S Motor,1400,19,11.1,210,910,4.3,61,10.45,5,9,9050,3S
+A2212 SEREIS,E-S Motor,2200,21.5,11.1,239,732,3.1,62,10.45,3,6,6030,2-3S
+A2212 SEREIS,E-S Motor,2450,25.2,11.1,280,815,2.9,62,10.45,3,6,6*3,2-3S
+iFlight Defender 20 1204,RobotShop,6200,7.85,12,89.7,est,est,5.8,18.56,2.5,2.5,est,est
+XING-E Pro 2207 2450KV,RobotShop,2450,42.63,22.2,682.1,est,est,37,21.41,4.3,5,est,est
